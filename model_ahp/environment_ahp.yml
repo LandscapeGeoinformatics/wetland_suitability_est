@@ -1,0 +1,20 @@
+name: ahp-model-local50m
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - geopandas
+  - ipython
+  - joblib
+  - jupyterlab
+  - matplotlib
+  - numba
+  - numpy
+  - pandas
+  - pyarrow
+  - rasterio
+  - scikit-learn
+  - seaborn
+  - shap
+  - shapely
+prefix: C:\Users\pamelama\micromamba\envs\geopython
