@@ -2,6 +2,9 @@
 
 **Code supplement**: *Identifying suitable locations for in-stream wetlands using machine learning and AHP approaches*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18403086.svg)](https://doi.org/10.5281/zenodo.18403086)
+
+
 This repository contains the code and data references for the paper evaluating in-stream wetland suitability using **Random Forest (RF)** and **Analytic Hierarchy Process (AHP)** models, comparing spatial resolution and data source effects.
 
 ## **Folders and files**
