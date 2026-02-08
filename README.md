@@ -1,4 +1,4 @@
-# **wetland-suitability-rf-ahp-2025**
+# **wetland-suitability_est-rf-ahp-2025**
 
 This repository provides the **code supplement and data references** for the paper  
 **“In-stream wetland suitability mapping using Analytic Hierarchy Process and machine learning.”**  
